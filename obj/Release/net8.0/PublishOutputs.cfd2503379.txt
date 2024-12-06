@@ -1,0 +1,5 @@
+C:\Uni\COS20007\FlappyBird\bin\Release\net8.0\publish\FlappyBird.exe
+C:\Uni\COS20007\FlappyBird\bin\Release\net8.0\publish\FlappyBird.dll
+C:\Uni\COS20007\FlappyBird\bin\Release\net8.0\publish\FlappyBird.deps.json
+C:\Uni\COS20007\FlappyBird\bin\Release\net8.0\publish\FlappyBird.runtimeconfig.json
+C:\Uni\COS20007\FlappyBird\bin\Release\net8.0\publish\FlappyBird.pdb
