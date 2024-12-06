@@ -1,14 +1,14 @@
 {
   "builds": [
     {
-      "src": "out/**/*",
+      "src": "bin/Release/net8.0/**/*",
       "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/out/$1"
+      "dest": "/bin/Release/net8.0/$1"
     }
   ]
 }
