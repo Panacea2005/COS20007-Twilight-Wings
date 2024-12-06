@@ -1,0 +1,5 @@
+C:\Uni\COS20007\FlappyBird\out\FlappyBird.exe
+C:\Uni\COS20007\FlappyBird\out\FlappyBird.dll
+C:\Uni\COS20007\FlappyBird\out\FlappyBird.deps.json
+C:\Uni\COS20007\FlappyBird\out\FlappyBird.runtimeconfig.json
+C:\Uni\COS20007\FlappyBird\out\FlappyBird.pdb
