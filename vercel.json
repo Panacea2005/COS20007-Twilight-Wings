@@ -1,17 +1,17 @@
 {
   "builds": [
     {
-      "src": "Dockerfile",
+      "src": "build.sh",
       "use": "@vercel/static-build",
       "config": {
-        "distDir": "bin/Release/net8.0/publish"
+        "distDir": "out"
       }
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/$1"
+      "dest": "/out/$1"
     }
   ]
 }
