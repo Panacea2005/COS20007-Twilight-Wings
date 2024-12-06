@@ -2,7 +2,10 @@
   "builds": [
     {
       "src": "Dockerfile",
-      "use": "@vercel/docker"
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "bin/Release/net8.0/publish"
+      }
     }
   ],
   "routes": [
