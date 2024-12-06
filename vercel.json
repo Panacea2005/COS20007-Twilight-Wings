@@ -1,14 +1,14 @@
 {
   "builds": [
     {
-      "src": "bin/Release/net8.0/publish/**/*",
-      "use": "@vercel/static"
+      "src": "Dockerfile",
+      "use": "@vercel/docker"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/bin/Release/net8.0/publish/$1"
+      "dest": "/$1"
     }
   ]
 }
