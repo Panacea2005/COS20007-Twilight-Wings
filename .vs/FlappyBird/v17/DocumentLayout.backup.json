@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Uni\\COS20007\\FlappyBird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|c:\\uni\\cos20007\\flappybird\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|solutionrelative:gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|c:\\uni\\cos20007\\flappybird\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|c:\\uni\\cos20007\\flappybird\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|solutionrelative:coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|c:\\uni\\cos20007\\flappybird\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|c:\\uni\\cos20007\\flappybird\\myeasylog.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|solutionrelative:myeasylog.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|c:\\uni\\cos20007\\flappybird\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|c:\\uni\\cos20007\\flappybird\\toppipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|solutionrelative:toppipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|c:\\uni\\cos20007\\flappybird\\bottompipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038C9B89-C02B-4B1B-9CFF-FB0766B43D4F}|FlappyBird.csproj|solutionrelative:bottompipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "myeasylog.log",
+              "DocumentMoniker": "C:\\Uni\\COS20007\\FlappyBird\\myeasylog.log",
+              "RelativeDocumentMoniker": "myeasylog.log",
+              "ToolTip": "C:\\Uni\\COS20007\\FlappyBird\\myeasylog.log",
+              "RelativeToolTip": "myeasylog.log",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-05T14:53:14.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Uni\\COS20007\\FlappyBird\\Coin.cs",
+              "RelativeDocumentMoniker": "Coin.cs",
+              "ToolTip": "C:\\Uni\\COS20007\\FlappyBird\\Coin.cs",
+              "RelativeToolTip": "Coin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:29:35.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BottomPipe.cs",
+              "DocumentMoniker": "C:\\Uni\\COS20007\\FlappyBird\\BottomPipe.cs",
+              "RelativeDocumentMoniker": "BottomPipe.cs",
+              "ToolTip": "C:\\Uni\\COS20007\\FlappyBird\\BottomPipe.cs",
+              "RelativeToolTip": "BottomPipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:24:33.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TopPipe.cs",
+              "DocumentMoniker": "C:\\Uni\\COS20007\\FlappyBird\\TopPipe.cs",
+              "RelativeDocumentMoniker": "TopPipe.cs",
+              "ToolTip": "C:\\Uni\\COS20007\\FlappyBird\\TopPipe.cs",
+              "RelativeToolTip": "TopPipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:24:24.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Uni\\COS20007\\FlappyBird\\GameObject.cs",
+              "RelativeDocumentMoniker": "GameObject.cs",
+              "ToolTip": "C:\\Uni\\COS20007\\FlappyBird\\GameObject.cs",
+              "RelativeToolTip": "GameObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:22:33.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Uni\\COS20007\\FlappyBird\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Uni\\COS20007\\FlappyBird\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:59:42.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Uni\\COS20007\\FlappyBird\\GameController.cs",
+              "RelativeDocumentMoniker": "GameController.cs",
+              "ToolTip": "C:\\Uni\\COS20007\\FlappyBird\\GameController.cs",
+              "RelativeToolTip": "GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:22:52.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Uni\\COS20007\\FlappyBird\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Uni\\COS20007\\FlappyBird\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:22:39.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,3 +12,4 @@ C:\Uni\COS20007\FlappyBird\obj\Debug\net8.0\refint\FlappyBird.dll
 C:\Uni\COS20007\FlappyBird\obj\Debug\net8.0\FlappyBird.pdb
 C:\Uni\COS20007\FlappyBird\obj\Debug\net8.0\FlappyBird.genruntimeconfig.cache
 C:\Uni\COS20007\FlappyBird\obj\Debug\net8.0\ref\FlappyBird.dll
+C:\Uni\COS20007\FlappyBird\obj\Debug\net8.0\FlappyBird.sourcelink.json
